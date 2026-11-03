@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+TestResults/
+*.pdb
+*.cache
+
+# Runtime artifacts
+self-test-*/
+*.log
+.publish-sanitized-worktree
