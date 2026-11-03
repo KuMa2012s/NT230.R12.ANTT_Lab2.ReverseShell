@@ -65,3 +65,11 @@ The same token must be configured in `App.config` before starting the Windows Se
 - `NT230.R12.ANTT_Lab2.ReverseShell/`: C# project and source files
 
 Build output, Visual Studio metadata, reports, verification files, and local runtime artifacts are intentionally excluded from this archive.
+
+## Disclaimer
+
+This repository is provided solely as an educational source-code archive for a controlled laboratory exercise. It is intended to demonstrate Windows Service lifecycle management, authenticated network communication, and restricted command handling.
+
+Use this project only in environments that you own or are explicitly authorized to test. It is not intended for unauthorized access, persistence, disruption, surveillance, or any harmful activity against third-party systems.
+
+The software is provided “as is,” without warranty. Users are responsible for complying with applicable rules and regulations and for any use or modification of the source code.
